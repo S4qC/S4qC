@@ -29,8 +29,9 @@ Hi there 👋
 <p align="center"><img src="https://profile-counter.glitch.me/{HMAHD}/count.svg" alt="HMAHD :: Visitor's Count" /></p>
 <h4 align="center">Top langs 🪐</h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HMAHD&langs_count=10&theme=tokyonight&layout=compact" alt="HMAHD :: Top Langs" /></p>
-<h4 align="center">Profile stats 💪</h4>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=HMAHD&show_icons=true&theme=tokyonight" alt="HMAHD :: Profile Stats" /></p>
+
+<h4 align="center">Profile stats </h4>
+![GitHub Stats Card](https://ghstats.dev/api/card?username=S4qC&theme=gruvbox&border_radius=5.5)
 
 
 <!---line break---->
