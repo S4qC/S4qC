@@ -20,9 +20,9 @@ Hello
 
 
 ![Akash-hasendr](https://github.com/Akash-hasendr/Akash-hasendr/blob/main/standard.gif)
-<!---line break---->
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-<!---line break---->
+
 
 
 
@@ -37,9 +37,9 @@ Hello
        alt="S4qC's GitHub Stats" />
 </p>
 
-<!---line break---->
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-<!---line break---->
+
 <!---------contribute chart animate snake----------------->
 <p align="center" >
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
