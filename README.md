@@ -31,7 +31,7 @@ Hi there 👋
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HMAHD&langs_count=10&theme=tokyonight&layout=compact" alt="HMAHD :: Top Langs" /></p>
 
 <h4 align="center">Profile stats </h4>
-<img src="https://ghstats.dev/api/card?username=S4qC&theme=gruvbox&border_radius=5.5" alt="GitHub Stats Card" />
+<img src="https://ghstats.dev/api/card?username=S4qC&theme=tokyonight&border_radius=5.5" alt="GitHub Stats Card" />
 
 
 <!---line break---->
