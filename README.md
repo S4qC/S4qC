@@ -29,8 +29,7 @@ Hello
 <h2 align="center">Github stats </h2>
 <h4 align="center">Top Languages 🪐</h4>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4qC&langs_count=10&theme=tokyonight&layout=compact&hide_progress=false" 
-       alt="S4qC :: Top Languages" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4qC&langs_count=10&theme=tokyonight&layout=compact&hide_progress=false&hide=css,html,jupyter%20notebook" alt="Top Languages" />
 </p>
 <h4 align="center">Profile Stats </h4>
 <p align="center">
