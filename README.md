@@ -1,6 +1,6 @@
-<img src="https://amiminnie.github.io/thoughts/commissions/social-banner.png" height="250px" width="600%"><br/>
 
-![](https://komarev.com/ghpvc/?username=HMAHD&style=for-the-badge)
+
+![](https://komarev.com/ghpvc/?username=S4qC&style=for-the-badge)
 
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://s4qc.github.io/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/843354685556654110)
