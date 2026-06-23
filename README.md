@@ -30,9 +30,11 @@ Hi there 👋
 <h4 align="center">Top langs 🪐</h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HMAHD&langs_count=10&theme=tokyonight&layout=compact" alt="HMAHD :: Top Langs" /></p>
 
-<h4 align="center">Profile stats </h4>
-<img src="https://ghstats.dev/api/card?username=S4qC&theme=tokyonight&border_radius=5.5" alt="GitHub Stats Card" />
-
+<h4 align="center">Profile Stats </h4>
+<p align="center">
+  <img src="https://ghstats.dev/api/card?username=S4qC&theme=tokyonight&border_radius=5.5" 
+       alt="S4qC's GitHub Stats" />
+</p>
 
 <!---line break---->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
