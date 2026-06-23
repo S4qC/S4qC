@@ -1,3 +1,5 @@
+<img src="https://amiminnie.github.io/thoughts/commissions/social-banner.png"><br/>
+
 ![](https://komarev.com/ghpvc/?username=HMAHD&style=for-the-badge)
 
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://s4qc.github.io/)
@@ -24,9 +26,7 @@ Hello
 
 
 
-<h2 align="center">Github stats ⚓</h2>
-<h4 align="center">Visitor's count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{HMAHD}/count.svg" alt="HMAHD :: Visitor's Count" /></p>
+<h2 align="center">Github stats </h2>
 <h4 align="center">Top langs 🪐</h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HMAHD&langs_count=10&theme=tokyonight&layout=compact" alt="HMAHD :: Top Langs" /></p>
 
