@@ -1,4 +1,4 @@
-<img src="https://amiminnie.github.io/thoughts/commissions/social-banner.png" height="90px" width="100%"><br/>
+<img src="https://amiminnie.github.io/thoughts/commissions/social-banner.png" height="100px" width="100%"><br/>
 
 ![](https://komarev.com/ghpvc/?username=HMAHD&style=for-the-badge)
 
