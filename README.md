@@ -7,14 +7,14 @@
 
 [<img align='right' src="https://i.ibb.co/nk9gvXz/xero-code.gif" width="25%" alt="giphy">](https://t.me/Legend000001)
 
-Hi there 👋
-- 📒 I’m currently a high school student.
-- 🌱 I’m currently learning C++, C#, linux, Blender & Godot.
-- 👯 I’m looking to collaborate on Projects and Hackathons
-- 💬 Ask me about anything
-- 👩‍💻 I'm a enthusiastic programmer (Still Student 🤫) 
-- 📫 How to reach me: Discord ☝️
-- 😄 Username: s4qc
+Hello
+-  I’m currently a high school student.
+-  I’m currently learning C++, C#, linux, Blender & Godot.
+-  I’m looking to collaborate on Projects and Hackathons
+-  Ask me about anything
+-  I'm a enthusiastic programmer (Still Student) 
+-  How to reach me: Discord 
+-  Username: s4qc
 
 
 ![Akash-hasendr](https://github.com/Akash-hasendr/Akash-hasendr/blob/main/standard.gif)
