@@ -10,11 +10,11 @@
 [<img align='right' src="https://i.ibb.co/nk9gvXz/xero-code.gif" width="25%" alt="giphy">](https://t.me/Legend000001)
 
 Hello
--  I’m currently a high school student.
--  I’m currently learning C++, C#, linux, Blender & Godot.
--  I’m looking to collaborate on Projects and Hackathons
+-  high school student.
+-  learning C++, C#, linux, Blender & Godot.
+-  looking to collaborate on Projects and Hackathons
 -  Ask me about anything
--  I'm a enthusiastic programmer (Still Student) 
+-  enthusiastic programmer (Still a student though) 
 -  How to reach me: Discord 
 -  Username: s4qc
 
@@ -47,7 +47,7 @@ Hello
 <p align="center">
    <img align='center' src="https://i.ibb.co/fqMN3QP/technologist-desktop.gif" width="25%" alt="giphy">
    <br>
-   <i>Dont Waste Time get back to work.</i>
+   <i>I love open source</i>
    <br>
 <br>	
 
