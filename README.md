@@ -33,12 +33,19 @@ Hello
 </p>
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-   <img align='center' src="https://i.ibb.co/fqMN3QP/technologist-desktop.gif" width="25%" alt="giphy">
-   <br>
-   <i>I love open source</i>
-   <br>
-<br>	
+  <br>
+
+  <img src="https://i.ibb.co/fqMN3QP/technologist-desktop.gif"
+       width="25%"
+       alt="Technologist">
+
+  <br>
+
+  <i>I love open source</i>
+</div>
+
 
 
