@@ -11,7 +11,7 @@
 
 Hello
 -  high school student.
--  learning C++, C#, linux, Blender & Godot.
+-  C++ programmer.
 -  looking to collaborate on Projects and Hackathons
 -  Ask me about anything
 -  enthusiastic programmer (Still a student though) 
@@ -25,9 +25,6 @@ Hello
 
 
 <h2 align="center">Github stats </h2>
-<h4 align="center">Top Languages </h4>
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4qC&langs_count=10&theme=tokyonight&layout=compact&hide_progress=false&hide=css,html,jupyter%20notebook" alt="Top Languages" />
 </p>
 <h4 align="center">Profile Stats </h4>
 <p align="center">
@@ -38,13 +35,6 @@ Hello
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-<!---------contribute chart animate snake----------------->
-<p align="center" >
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
-<hr color="navyblue">
-<p align="center">
    <img align='center' src="https://i.ibb.co/fqMN3QP/technologist-desktop.gif" width="25%" alt="giphy">
    <br>
    <i>I love open source</i>
